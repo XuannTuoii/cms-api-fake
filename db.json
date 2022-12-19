@@ -1,0 +1,351 @@
+{
+	"products":[
+   { "totalMoney": 90.000}
+  ],
+  "listApp" :  [
+      {
+        "id": 1,
+        "name": "Insfan",
+        "path": "insfan",
+        "revenue": 1200,
+        "urlGooglePlay":"",
+        "urlAppStore":"",
+        "revenueByDate":[10,20,30,10,34,12,34],
+        "revenueByMonth":[10,20,34,10,34,12,34,213,89,123,122,234],
+        "likeEarn":[
+          {
+            "stack": "Ios",
+            "data": [
+                {
+                  "title": "Follow",
+                  "listData":[ 121,20,30,120,378,145,84]
+                },
+                {
+                  "title":"Like",
+                  "listData":[ 110,420,30,10,34,189,94]
+                },
+                {
+                  "title":"Reward",
+                  "listData":[ 20,320,150,70,314,122,364]
+                }
+            ]
+          },
+          {
+            "stack": "Android",
+            "data": [
+                {
+                  "title": "Follow",
+                  "listData":[ 21,22,30,120,378,149,67]
+                },
+                {
+                  "title":"Like",
+                  "listData":[ 160,10,89,10,34,145,123]
+                },
+                {
+                  "title":"Reward",
+                  "listData":[ 80,320,230,140,324,222,345]
+                }
+            ]
+          },
+          {
+            "stack": "Web",
+            "data": [
+                {
+                  "title": "Follow",
+                  "listData":[ 213,260,40,67,189,135,79]
+                },
+                {
+                  "title":"Like",
+                  "listData":[ 123,111,60,70,94,125,64]
+                },
+                {
+                  "title":"Reward",
+                  "listData":[ 62,174,87,96,256,168,96]
+                }
+            ]
+          }
+        ],
+        "likeBurn":[
+          {
+            "like": 34,
+            "follow": 45,
+            "reward": 120
+          },
+          {
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          }
+        ],
+        "moneyByCountry": [
+          {
+            "countryId": "Others",
+            "countryName": "others",
+            "money": 123
+          },
+          {
+            "countryId": "USA",
+            "countryName":"Wasington DC",
+            "money": 234
+          },
+          {
+            "countryId": "Uinted Kingdom",
+            "countryName":"London",
+            "money": 435
+          },
+          {
+            "countryId": "Africa",
+            "countryName":"Arabia",
+            "money": 512
+          },
+          {
+            "countryId": "Europe",
+            "countryName":"Paris",
+            "money": 346
+          },
+          {
+            "countryId": "Asia",
+            "countryName":"Singapore",
+            "money": 768
+          },
+          {
+            "countryId": "Australia",
+            "countryName":"Sydney",
+            "money": 980
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Tiktrend",
+        "path": "tiktrend",
+        "revenue": 1456,
+        "revenueByDate": [30,120,40,100,334,122,34],
+        "revenueByMonth": [190,120,412,105,334,12,304,134,78,143,112,234],
+        "likeEarn":[
+          {
+            "stack": "Ios",
+            "data": [
+                {
+                  "title": "Follow",
+                  "listData":[ 121,20,30,120,378,145,84]
+                },
+                {
+                  "title":"Like",
+                  "listData":[ 110,420,30,10,34,189,94]
+                },
+                {
+                  "title":"Reward",
+                  "listData":[ 20,320,150,70,314,122,364]
+                }
+            ]
+          },
+          {
+            "stack": "Android",
+            "data": [
+                {
+                  "title": "Follow",
+                  "listData":[ 21,22,30,120,378,149,67]
+                },
+                {
+                  "title":"Like",
+                  "listData":[ 160,10,89,10,34,145,123]
+                },
+                {
+                  "title":"Reward",
+                  "listData":[ 80,320,230,140,324,222,345]
+                }
+            ]
+          },
+          {
+            "stack": "Web",
+            "data": [
+                {
+                  "title": "Follow",
+                  "listData":[ 213,260,40,67,189,135,79]
+                },
+                {
+                  "title":"Like",
+                  "listData":[ 123,111,60,70,94,125,64]
+                },
+                {
+                  "title":"Reward",
+                  "listData":[ 62,174,87,96,256,168,96]
+                }
+            ]
+          }
+        ],
+        "likeBurn":[
+          {
+            "like": 34,
+            "follow": 45,
+            "reward": 120
+          },
+          {
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          },{
+            "like": 234,
+            "follow": 12,
+            "reward":320
+          }
+        ],
+        "moneyByCountry": [
+          {
+            "countryId": "Others",
+            "countryName": "others",
+            "money": 123
+          },
+          {
+            "countryId": "USA",
+            "countryName":"Wasington DC",
+            "money": 234
+          },
+          {
+            "countryId": "Uinted Kingdom",
+            "countryName":"London",
+            "money": 435
+          },
+          {
+            "countryId": "Africa",
+            "countryName":"Arabia",
+            "money": 512
+          },
+          {
+            "countryId": "Europe",
+            "countryName":"Paris",
+            "money": 346
+          },
+          {
+            "countryId": "Asia",
+            "countryName":"Singapore",
+            "money": 768
+          },
+          {
+            "countryId": "Australia",
+            "countryName":"Sydney",
+            "money": 980
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Repost",
+        "path": "repost",
+        "revenue":1111,
+        "revenueByDate": [10,22,30,14,34,14,38],
+        "revenueByMonth": [10,22,30,14,34,14,38,243,434,12,45,45]
+      },
+      {
+        "id": 4,
+        "name": "SMS Android",
+        "path": "sms-android",
+        "revenueByDate": [12,20,30,11,32,127,54],
+        "revenueByMonth": [12,20,30,11,32,127,54,123,412,84,90,123]
+      },
+      {
+        "id": 5,
+        "name": "Private Photo",
+        "path": "private-photo",
+        "revenueByDate": [20,30,60,23,34,178,44],
+        "revenueByMonth": [60,30,60,23,34,178,44,135,212,84,90,423]
+      },
+      {
+        "id": 6,
+        "name": "Color Number",
+        "path": "color-number",
+        "revenueByDate": [10,210,60,20,314,19,67],
+        "revenueByMonth": [30,210,120,20,324,19,67,112,113,89,243,124]
+      },
+      {
+        "id": 7,
+        "name": "World Radio",
+        "path": "world-radio",
+        "revenueByDate": [109,230,310,24,35,12,32],
+        "revenueByMonth":  [109,230,32,24,35,12,32,123,123,123,123,123]
+      },
+      {
+        "id": 8,
+        "name": "Scanner",
+        "path": "scanner",
+        "revenueByDate": [50,250,90,50,34,26,97],
+        "revenueByMonth": [50,250,90,50,34,26,97,123,123,123,123,123]
+      }
+	],
+  "moneyByCountry": [
+          {
+            "countryId": "Others",
+            "countryName": "others",
+            "money": 123
+          },
+          {
+            "countryId": "USA",
+            "countryName":"Wasington DC",
+            "money": 234
+          },
+          {
+            "countryId": "Uinted Kingdom",
+            "countryName":"London",
+            "money": 435
+          },
+          {
+            "countryId": "Africa",
+            "countryName":"Arabia",
+            "money": 512
+          },
+          {
+            "countryId": "Europe",
+            "countryName":"Paris",
+            "money": 346
+          },
+          {
+            "countryId": "Asia",
+            "countryName":"Singapore",
+            "money": 769 
+          },
+          {
+            "countryId": "Australia",
+            "countryName":"Sydney",
+            "money": 980
+          }
+        ]
+}
+
+
